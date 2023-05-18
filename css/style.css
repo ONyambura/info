@@ -397,7 +397,7 @@ section.dark .section-title::after{
 }
 
 .work{
-  width: calc(25% - 10px);
+  width: calc(20% - 10px);
   overflow: hidden;
   border-radius: 6px;
   margin: 10px 0;
